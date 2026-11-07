@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi, I'm Matilda 👋
+
+# I'm Matilda Ahuama 👋
 
 Physics student at **King's College London** (BSc Physics with Astrophysics and Cosmology, graduating 2027), based in London. I'm building towards a career in **aerospace**, and I learn best by building and modelling things myself.
 
