@@ -21,5 +21,3 @@ Test engineering at Element Materials Technology (UKAS, ISO 17025), lab work at 
 ## Skills
 Python · NumPy · SciPy · Matplotlib · Jupyter · Fusion 360 · OpenVSP · XFLR5 · Flow5
 
-## Get in touch
-Looking for aerospace internships and graduate roles. Find me on [LinkedIn](ADD YOUR LINKEDIN URL).
